@@ -1,4 +1,4 @@
-# Authentication Demo Start
+# Authentication Demo 
 
 This is the starting point for the Authentication Demo.  
 It is a simple Express app that has some GET routes that render HTML pages. 
