@@ -11,8 +11,11 @@ It also contains an API route that returns a JSON object.
 
 - `/api/user` returns a JSON object with the user's name and email.
 
+This makes use of handlebars and an Express server
+
 ## Setup
 
 1. Run `npm install` to install the dependencies.
 2. Run `npm start:dev` to start the server.
 3. Open [http://localhost:5000](http://localhost:5000) in your browser.
+
